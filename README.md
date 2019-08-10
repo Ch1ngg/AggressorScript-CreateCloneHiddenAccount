@@ -1,6 +1,8 @@
 # AggressorScript-CreateCloneHiddenAccount
 创建一个克隆隐藏的管理员账号/Create a Clone Hidden Administrator Account
 
+在backdoor_accounts的基础上增加CreateCloneHiddenAccount功能/Add CreateCloneHiddenAccount function based on backdoor_accounts
+
 ![](pic/TIM图片20190810231132.png)
 
 ## 感谢/Thanks
