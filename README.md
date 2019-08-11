@@ -5,6 +5,9 @@
 
 ![](pic/TIM图片20190810231132.png)
 
+## 注意/PS
+创建克隆隐藏管理员账号需要Administrator权限/Creating a clone to hide the administrator account requires Administrator privileges
+
 ## 感谢/Thanks
 
 [你能找到我么？-- 隐藏用户建立（Powershell）](https://evi1cg.me/archives/UserClone.html)
