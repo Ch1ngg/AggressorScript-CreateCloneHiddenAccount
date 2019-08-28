@@ -14,3 +14,5 @@
 
 
 [backdoor_accounts](https://github.com/michalkoczwara/aggressor_scripts_collection/blob/master/backdoor_accounts.cna)
+
+> 该项目仅供合法的渗透测试以及爱好者参考学习，请勿用于非法用途，否则自行承担相关责任！
